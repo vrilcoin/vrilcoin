@@ -1,7 +1,8 @@
-FooCoin (FOO)
+VrilCoin (VRI)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
+This is the CryptoCurrency for the Vril
 
+Home of the Black Sun
 
 Scrypt Hashcash PoW Template
